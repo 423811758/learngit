@@ -1,0 +1,5 @@
+1、在github创建一个仓库(clonegit)，并勾选Initialize this repository with a README
+2、使用git clone 将远程仓库克隆到本地库
+例：git clone git@github.com:423811758/clonegit.git(423811758为账号名，clonegit为仓库名)
+
+使用ls查看当前目录下的文件
